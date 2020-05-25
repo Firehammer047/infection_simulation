@@ -1,0 +1,6 @@
+Infection Simulation
+
+This is a basic dynamic model of particles in a box. 
+Particles can interact and pass a virus. 
+Only contagious particles can pass the virus.
+Infection follows a exp(-kr) model with r=distance to contagious person
